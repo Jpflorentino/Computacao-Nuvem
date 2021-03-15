@@ -1,0 +1,21 @@
+syntax = "proto3" ;
+// each class is defined in each own file, inside a common package
+option java_multiple_files = true;
+option java_package = "operationservice" ;
+package operationservice; // package do proto
+// The greeting service definition.
+service OperationService {
+  rpc findPrimes (OperationRequest) returns (stream OperationReply); //Alinea c
+  rpc sumIntNumbers (stream OperationRequest) returns (OperationReply); //Alinea e
+  rpc sumStreamIntNumbers (stream OperationRequest) returns (stream OperationReply); //Alinea f
+  rpc findPrimesStream (stream OperationRequest) returns (stream OperationReply); //Alinea g
+}
+// input message
+message OperationRequest {
+  int32 opRequest1 = 1 ; //Anteriormente Num
+  int32 opRequest2 = 2 ; //Anteriormente Start
+}
+// output message
+message OperationReply {
+  int32 opReply = 1 ;
+}

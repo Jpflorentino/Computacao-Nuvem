@@ -1,0 +1,3 @@
+Client\Client.class
+Utils\clientUtils.class
+Observers\ClientImageStreamObserver.class

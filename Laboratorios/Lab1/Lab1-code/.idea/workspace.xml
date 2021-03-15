@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc2ddea2-f26a-475e-a7f7-b6195a973b5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZfriNHSScWo9rI3DGloQPRn0pB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Universidade\6º Semetre\Computação na Nuvem\Lab1\Lab1-code\Server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientCNSockets">
+    <configuration name="ClientCNSockets" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ClientCNSockets" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="35.225.82.74 80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerCNSockets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerCNSockets" />
+      <module name="Server" />
+      <option name="PROGRAM_PARAMETERS" value="c 5000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerCNSockets" />
+      <item itemvalue="Application.ClientCNSockets" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientCNSockets" />
+        <item itemvalue="Application.ServerCNSockets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2ddea2-f26a-475e-a7f7-b6195a973b5c" name="Default Changelist" comment="" />
+      <created>1585241115727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585241115727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="91" key="#Project_Structure" timestamp="1585244536660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="91" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585244536660" />
+    <state x="205" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585306533485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="205" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585306533485" />
+    <state x="475" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585303735136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585303735136" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585241137085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1585241137085" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585304297628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585304297628" />
+    <state width="723" height="209" key="GridCell.Tab.0.bottom" timestamp="1585307344329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585307344329" />
+    <state width="723" height="209" key="GridCell.Tab.0.center" timestamp="1585307344329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585307344329" />
+    <state width="723" height="209" key="GridCell.Tab.0.left" timestamp="1585307344329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585307344329" />
+    <state width="723" height="209" key="GridCell.Tab.0.right" timestamp="1585307344329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585307344329" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585249034432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585249034432" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585249034432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585249034432" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585249034432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585249034432" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585249034432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585249034432" />
+    <state x="225" y="0" key="SettingsEditor" timestamp="1585304432976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585304432976" />
+  </component>
+</project>

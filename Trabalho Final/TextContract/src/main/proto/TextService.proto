@@ -1,0 +1,79 @@
+syntax = "proto3";
+// each class is defined in each own file, inside a common package
+option java_multiple_files = true;
+option java_package = "textservice";
+
+package textservice; // package do proto
+
+// The greeting service definition
+service TextService{
+  //caso 1
+  rpc login (LoginRequest) returns (LoginReply);
+  //caso 1
+  rpc logout (LogOutRequest) returns (LogOutReply);
+  //caso 3
+  rpc sendImage(stream ImageRequest) returns (ImageReply);
+  //caso 1
+  rpc detectText(ORCRequest) returns (ORCReply);
+  //caso 1
+  rpc receiveTextDetected(ORCResultRequest) returns (ORCResultReply);
+  //caso 1
+  rpc receiveTextTranslated(TranslateResultRequest) returns (TranslateResultReply);
+}
+
+//input message
+message LoginRequest{
+  string userName = 1;
+}
+
+message LogOutRequest{
+  int32 sessionId = 1;
+}
+
+message ImageRequest{
+  int32 sessionId = 1;
+  int32 imageId = 2;
+  bytes bytesSent = 3;
+  int32 maxSize = 4;
+  string translationId = 5;
+  string contentType = 6;
+}
+
+message ORCRequest{
+  string imgName = 1;
+}
+
+message ORCResultRequest{
+  string imgName = 1;
+}
+
+message TranslateResultRequest{
+  string imgName = 1;
+}
+
+//output message
+
+
+message LoginReply{
+  int32 sessionId = 1;
+}
+
+message LogOutReply{
+  string messageLogOut = 1;
+}
+
+message ImageReply{
+  string imageId = 1;
+}
+
+message ORCReply{
+  string rpImgName = 1;
+}
+
+message ORCResultReply{
+  string textResult = 1;
+}
+
+message TranslateResultReply{
+  string textResult = 1;
+}

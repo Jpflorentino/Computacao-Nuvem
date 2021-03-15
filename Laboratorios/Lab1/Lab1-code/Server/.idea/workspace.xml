@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7563cb1a-4777-4600-9ca4-f416b276fd60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lab2/gRPCPrimesProject/.idea/gRPCPrimesProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TrabFinal/.idea/TrabFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TrabFinal/ImagesOCR/.idea/ImagesOCR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/ClientForumFileShare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/ClientForumFileShare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Observers/ClientImageStreamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Observers/ClientImageStreamObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Utils/clientUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextClient/src/main/java/Utils/clientUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextContract/src/main/proto/TextService.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextContract/src/main/proto/TextService.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextOCR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextOCR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextServer/src/main/java/Observers/StreamObserverImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextServer/src/main/java/Observers/StreamObserverImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TrabFinal/TextServer/src/main/java/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TrabFinal/TextServer/src/main/java/Server/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ZOQNxPk1yAvCm8BscMZpvmi8qc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RunManager" selected="Application.Concurrent4000">
+    <configuration name="Concurrent4000" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.ServerCNSockets" />
+      <module name="Server" />
+      <option name="PROGRAM_PARAMETERS" value="c 4000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Serial5000" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.ServerCNSockets" />
+      <module name="Server" />
+      <option name="PROGRAM_PARAMETERS" value="s 5000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Concurrent4000" />
+      <item itemvalue="Application.Serial5000" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7563cb1a-4777-4600-9ca4-f416b276fd60" name="Default Changelist" comment="" />
+      <created>1584707623715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584707623715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="186" key="#Project_Structure" timestamp="1584903780062">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="72" y="186" key="#Project_Structure/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584903780062" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584751453651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584751453651" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584751679898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584751679898" />
+    <state x="633" y="131" key="FileChooserDialogImpl" timestamp="1584816058465">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="633" y="131" key="FileChooserDialogImpl/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584816058465" />
+    <state x="422" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584745273732" />
+    <state width="900" height="290" key="GridCell.Tab.0.bottom" timestamp="1584882872865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="900" height="290" key="GridCell.Tab.0.bottom/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882872865" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584794169801" />
+    <state width="900" height="290" key="GridCell.Tab.0.center" timestamp="1584882872864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="900" height="290" key="GridCell.Tab.0.center/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882872864" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584794169801" />
+    <state width="900" height="290" key="GridCell.Tab.0.left" timestamp="1584882872864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="900" height="290" key="GridCell.Tab.0.left/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882872864" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584794169801" />
+    <state width="900" height="290" key="GridCell.Tab.0.right" timestamp="1584882872865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="900" height="290" key="GridCell.Tab.0.right/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882872865" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584794169801" />
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1584750719888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584750719888" />
+    <state width="1237" height="212" key="GridCell.Tab.1.center" timestamp="1584750719888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584750719888" />
+    <state width="1237" height="212" key="GridCell.Tab.1.left" timestamp="1584750719888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584750719888" />
+    <state width="1237" height="212" key="GridCell.Tab.1.right" timestamp="1584750719888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584750719888" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1585304413054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="122" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584751689080" />
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585304413054" />
+    <state x="75" y="0" key="new project wizard" timestamp="1584745283773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="75" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584745283773" />
+  </component>
+</project>

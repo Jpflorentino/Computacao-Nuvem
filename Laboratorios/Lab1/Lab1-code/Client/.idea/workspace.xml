@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="740280f3-ab51-457a-8642-a4889676fd36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZPeieW6akVK8DJu1oXRg1VPSub" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RunManager" selected="Application.ClientSerial5000">
+    <configuration name="ClientConcurrent4000" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="client.ClientCNSockets" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="35.225.82.74 80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientSerial5000" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="client.ClientCNSockets" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="35.225.82.74 80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientVMgoogle8000" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="client.ClientCNSockets" />
+      <module name="Client" />
+      <option name="PROGRAM_PARAMETERS" value="35.225.82.74 80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientConcurrent4000" />
+      <item itemvalue="Application.ClientSerial5000" />
+      <item itemvalue="Application.ClientVMgoogle8000" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="740280f3-ab51-457a-8642-a4889676fd36" name="Default Changelist" comment="" />
+      <created>1584745284159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584745284159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="179" width="874" height="531" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585307379073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="228" width="1092" height="602" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584817129332" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584794113885" />
+    <state x="510" y="179" width="874" height="531" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585307379073" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584750571293">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584750571293" />
+    <state x="429" y="201" key="FileChooserDialogImpl" timestamp="1585304313313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="201" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585304313313" />
+    <state x="536" y="256" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584892475102" />
+    <state width="738" height="210" key="GridCell.Tab.0.bottom" timestamp="1585310455265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="323" key="GridCell.Tab.0.bottom/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882874761" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584794153940" />
+    <state width="738" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585310455265" />
+    <state width="738" height="210" key="GridCell.Tab.0.center" timestamp="1585310455265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="323" key="GridCell.Tab.0.center/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882874761" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584794153940" />
+    <state width="738" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585310455265" />
+    <state width="738" height="210" key="GridCell.Tab.0.left" timestamp="1585310455265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="323" key="GridCell.Tab.0.left/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882874760" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584794153940" />
+    <state width="738" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585310455265" />
+    <state width="738" height="210" key="GridCell.Tab.0.right" timestamp="1585310455265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="323" key="GridCell.Tab.0.right/-2560.0.1463.806/0.0.1920.1050@0.0.1920.1050" timestamp="1584882874761" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584794153940" />
+    <state width="738" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585310455265" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1585304537701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585304537701" />
+  </component>
+</project>

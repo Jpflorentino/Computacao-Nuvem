@@ -1,0 +1,7 @@
+2020/05/01 12:09:30:98:987000000 : Server started, listening on port 8000
+2020/05/01 12:09:30:98:988000000 : *** server await termination
+2020/05/01 12:11:43:20:201000000 : Subscribe jp to Teste
+2020/05/01 12:11:43:20:201000000 : New subscriber jp for  a new topic Teste
+2020/05/01 12:12:55:80:800000000 : Publish message from jp to topic Teste:Bom dia
+2020/05/01 12:12:55:80:800000000 : Go Publish to user:jp
+2020/05/01 12:13:52:62:622000000 : Unsubscribe jp to Teste
